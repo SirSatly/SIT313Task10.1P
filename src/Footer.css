@@ -1,0 +1,20 @@
+.footer-div {
+    background-color:darkcyan;
+    padding: 10px;
+}
+
+.footer-div a {
+    color: black;
+    text-decoration: none;
+}
+
+.social-image {
+    width: 50px;
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.centered-column {
+    max-width: 500px;
+    margin: auto;
+}
