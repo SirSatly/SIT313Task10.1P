@@ -7,7 +7,7 @@ import Newsletter from '../Newsletter';
 function HomePage() {
   return (
     <div className="App">
-      <img src={image} className='container-fluid' alt='Header image'/>
+      <img src={image} className='container-fluid' alt='Header'/>
       <br />
       <DevCardList />
       <br />

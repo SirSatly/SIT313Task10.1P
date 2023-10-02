@@ -2,7 +2,6 @@ import React,{useState, useContext} from 'react'
 import {Link, useNavigate} from 'react-router-dom'
 import '../App.css'
 import {signinAuthUserWithEmailAndPassword} from '../utils/firebase'
-import { getAuth } from "firebase/auth";
 import '../Login.css'
 import { UserContext } from '../user.context'
 
